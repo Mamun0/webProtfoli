@@ -1,0 +1,28 @@
+body{
+    font-family: 'Bitter', serif;
+}
+h1{
+    font-size: 40px;
+    text-transform: uppercase;
+}
+h3{
+    text-transform: uppercase;
+}
+.name-highlight{
+    color: orange;
+}
+.content{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.pro-image{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.pro-image img{
+    width: 100%;
+}
